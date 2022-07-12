@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/pactflow/pact-msw-adapter/compare/v1.1.1...v1.3.0) (2022-07-12)
+
+
+### Features
+
+* add query to request in the pact file ([1473315](https://github.com/pactflow/pact-msw-adapter/commit/147331570aa37d4b70c06e12dac3039cfdccc4b1))
+
+
+### Bug Fixes
+
+* change type ([1cfd279](https://github.com/pactflow/pact-msw-adapter/commit/1cfd27921fd770a5e098255724d015eccad5b70b))
+* include headers on interactions requests ([c5a0cea](https://github.com/pactflow/pact-msw-adapter/commit/c5a0ceaf854d97ac6dfaf62b2c8d40231617a653))
+
 ## [1.2.0](https://github.com/pactflow/pact-msw-adapter/compare/v1.1.1...v1.2.0) (2022-06-01)
 
 
